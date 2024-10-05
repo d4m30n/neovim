@@ -1,2 +1,2 @@
-require("harrym")
-require("harrym.lazy")
+require("config")
+require("config.lazy")
